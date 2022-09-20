@@ -1,6 +1,6 @@
-###                                                                   Hi , I'm Shimbhu Kumawat
-###                                               Java Backend Developer , Frontend Developer and Java Full Stack Developer
-# hello
+##    Hi , I'm Shimbhu Kumawat
+###   Java Backend Developer
+####  I am  passionate and focused Java Full Stack web developer. I am excited how software are making are life so easy  
 
 <!--
 **Shimbhu77/Shimbhu77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
