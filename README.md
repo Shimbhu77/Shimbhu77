@@ -4,6 +4,11 @@ A passionate focused, and enthusiastic Java Full-stack web developer. An effecti
 
 I am excited how software are making are life so easy.I am also enjoy learning new technologies and skills. 
 
+
+# Skills and Framework
+![Git](https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
+
+
 <!--
 **Shimbhu77/Shimbhu77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
