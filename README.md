@@ -2,7 +2,7 @@
 ###   Java Backend Developer
 A passionate focused, and enthusiastic Java Full-stack web developer. An effective team player and excited to implement his skills with meaningful real-life problem-solving products. Looking forward to boosting skills and gaining experience in a growth-oriented organization.
 
-I am excited how software are making are life so easy.I am also enjoy learning new technologies and skills. 
+I am excited how software are making our life easy.I am also enjoy learning new technologies and skills which help me to build real life problem solving projects. 
 
 
 # Skills and Framework 
