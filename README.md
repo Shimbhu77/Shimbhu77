@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/shimbhu-kumawat-65856520a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/shimbhu-kumawat-65856520a/" height="30" width="80" /></a>
+<a href="https://www.linkedin.com/in/shimbhu-kumawat-65856520a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/shimbhu-kumawat-65856520a/" height="30" width="100" /></a>
 </p> 
 
 
