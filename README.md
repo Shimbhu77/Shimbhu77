@@ -1,8 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Shimbhu Kumawat</h1>
 <h3 align="center">Java Backend Developer</h3>
-<p> A passionate focused, and enthusiastic Java Full-stack web developer. An effective team player and excited to implement his skills with meaningful real-life problem-solving products. Looking forward to boosting skills and gaining experience in a growth-oriented organization. </p>
-<p> I am excited how software are making our life easy.I am also enjoy learning new technologies and skills which help me to build real life problem solving projects.</p>
+<p> A versatile programmer with a passion for solving complex problems and delivering high-quality code. With a strong foundation in Java programming and a deep understanding of object-oriented programming and design patterns.</p> 
+<p> In addition to my technical skills, I am a proactive learner who is always looking for ways to improve and expand my skill set. As a team player with experience in a range of programming languages and technologies, I excel at quickly adapting to new environments and collaborating with cross-functional teams to deliver innovative solutions. Whether working on a small project or a large-scale system, I always look for ways to improve efficiency and effectiveness.</p>
+<p> Looking forward to boosting skills and gaining experience in a growth-oriented organization. </p>   
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimbhu77&label=Profile%20views&color=0e75b6&style=flat" alt="shimbhu77" /> </p>
 
