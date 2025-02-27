@@ -9,11 +9,11 @@
 
 - 👨‍💻 Portfolio [https://shimbhu77.github.io/](https://shimbhu77.github.io/)
 
-- 👨‍💻 Resume [Shimbhu_Kumawat_Resume](https://drive.google.com/file/d/1Tt3xqD77bqEvru507Oh9AYtBcJcnr5oc/view?usp=share_link)
+- 👨‍💻 Resume [Shimbhu_Kumawat_Resume](https://drive.google.com/file/d/15otZu8sQKgne04wwOxFBV36DzSreDmzW/view?usp=sharing)
 
 - 📫 Gmail **Kumawatshimbhu4@gmail.com**
 
-- 👨‍💻 LinkedIn [https://www.linkedin.com/in/shimbhu-kumawat-65856520a/](https://www.linkedin.com/in/shimbhu-kumawat-65856520a/)
+- 👨‍💻 LinkedIn [https://www.linkedin.com/in/shimbhu-kumawat/](https://www.linkedin.com/in/shimbhu-kumawat/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
