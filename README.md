@@ -1,9 +1,26 @@
 
 <h1 align="center">Hi 👋, I'm Shimbhu Kumawat</h1>
-<h3 align="center">Java Backend Developer</h3>
-<p> A versatile programmer with a passion for solving complex problems and delivering high-quality code. With a strong foundation in Java programming and a deep understanding of object-oriented programming and design patterns.</p> 
-<p> In addition to my technical skills, I am a proactive learner who is always looking for ways to improve and expand my skill set. As a team player with experience in a range of programming languages and technologies, I excel at quickly adapting to new environments and collaborating with cross-functional teams to deliver innovative solutions. Whether working on a small project or a large-scale system, I always look for ways to improve efficiency and effectiveness.</p>
-<p> Looking forward to boosting skills and gaining experience in a growth-oriented organization. </p>   
+<h3 align="center">Java Backend Developer | AWS | Spring Boot | MySQL</h3>
+
+### 💼 About Me  
+🔹 Experienced **Java Backend Developer** with **1.5+ years** of professional experience.  
+🔹 Specializing in **Spring Boot, RESTful APIs, MySQL, AWS Cloud, and CI/CD pipelines**.  
+🔹 Strong understanding of **database design, system architecture, and microservices**.  
+🔹 Hands-on experience with **Docker, Kubernetes, and cloud infrastructure management**.  
+🔹 Enthusiastic about problem-solving, optimizing performance, and writing clean, maintainable code.  
+
+### 🔧 Tech Stack  
+✔ **Backend:** Java, Spring Boot, Hibernate, REST APIs, Microservices  
+✔ **Database:** MySQL, Flyway (DB versioning), Redis  
+✔ **Cloud & DevOps:** AWS (EC2, S3, SNS, RDS), Docker, CI/CD (GitHub Actions)  
+✔ **Other Tools:** Git, Maven, JUnit, Mockito, RabbitMQ  
+
+### 🔭 What I’ve Worked On  
+✅ Reduced **SMS delivery costs by 95%** using AWS SNS for optimized notifications.  
+✅ Built and deployed **CI/CD pipelines using GitHub Actions**, reducing deployment time by **90%**.  
+✅ Automated **database versioning with Flyway**, minimizing manual errors by **95%**.  
+✅ Integrated **payment gateways (Razorpay) and shipping logistics (Shiprocket)** in e-commerce systems.  
+✅ Developed robust **real-time notifications and order management automation**.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimbhu77&label=Profile%20views&color=0e75b6&style=flat" alt="shimbhu77" /> </p>
 
