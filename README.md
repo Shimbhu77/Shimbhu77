@@ -3,7 +3,7 @@
 <h3 align="center">Java Backend Developer | AWS | Spring Boot | MySQL</h3>
 
 ### 💼 About Me  
-🔹 Experienced **Java Backend Developer** with **1.5+ years** of professional experience.  
+🔹 Experienced **Java Backend Developer** with **2+ years** of professional experience.  
 🔹 Specializing in **Spring Boot, RESTful APIs, MySQL, AWS Cloud, and CI/CD pipelines**.  
 🔹 Strong understanding of **database design, system architecture, and microservices**.  
 🔹 Hands-on experience with **Docker, Kubernetes, and cloud infrastructure management**.  
